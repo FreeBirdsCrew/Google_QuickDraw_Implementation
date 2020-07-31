@@ -4,7 +4,7 @@ Google's Doodle Quick Draw! implementation using Python and Machine Learning alo
 
 ![Screenshot](Freebirds_Crew.png)
 
-Link - bit.ly/338uGrd
+Link - https://www.youtube.com/watch?v=2H0tSHGK_CU
 
 Explained all about Quick Draw -
 
@@ -24,4 +24,4 @@ Explained all about Quick Draw -
 
 Watch the Full Vidoe and Like Share and Subscribe our YouTube Channel.
 
-YouTube Channel - bit.ly/3hOgKqf
+YouTube Channel - https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1
