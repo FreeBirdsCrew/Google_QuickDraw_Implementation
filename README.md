@@ -7,12 +7,19 @@ Google's Doodle Quick Draw! implementation using Python and Machine Learning alo
 Link - bit.ly/338uGrd
 
 Explained all about Quick Draw -
+
 • Architecture
+
 • Data Pre-Processing and Data Manipulation
+
 • Activation Functions ( RELU and Sigmoid )
+
 • Convolutional Neural Network
+
 • Max Pooling
+
 • Fully Connected Layers
+
 • Flaterning
 
 Watch the Full Vidoe and Like Share and Subscribe our YouTube Channel⚡
