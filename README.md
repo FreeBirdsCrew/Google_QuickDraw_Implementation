@@ -22,6 +22,6 @@ Explained all about Quick Draw -
 
 • Flaterning
 
-Watch the Full Vidoe and Like Share and Subscribe our YouTube Channel⚡
+Watch the Full Vidoe and Like Share and Subscribe our YouTube Channel.
 
 YouTube Channel - bit.ly/3hOgKqf
