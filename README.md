@@ -2,7 +2,7 @@
 
 Google's Doodle Quick Draw! implementation using Python and Machine Learning along with Convolutional Neural Network 🛑.
 
-![Screenshot](Freebirds Crew.png)
+![Screenshot](Freebirds_Crew.png)
 
 Link - bit.ly/338uGrd
 
